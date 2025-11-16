@@ -1,4 +1,4 @@
-#📎 ClipBot
+📎 ClipBot
 
 A customizable, personality-filled chatbot with moods, memory, GUI launcher, and update system.
 
