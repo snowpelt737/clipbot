@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ClipBot
+Comment=Open ClipBot Launcher
+Exec=/home/snowpelt/Downloads/clipbot/run_clipbot.sh
+Icon=/home/snowpelt/Downloads/clipbot/clipbot.png
+Terminal=true
+Categories=Application;
